@@ -1,0 +1,20 @@
+{
+  "name": "party_planning_pandemonium",
+  "version": "0.0.1",
+  "description": "Enrich engineering candidate project",
+  "main": "planparties.js",
+  "scripts": {
+    "plan_parties": "node plan_parties.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enrich-technologies/recruiting_project.git"
+  },
+  "author": "Michael Daugherty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enrich-technologies/recruiting_project/issues"
+  },
+  "homepage": "https://github.com/enrich-technologies/recruiting_project#readme",
+  "dependencies": {}
+}

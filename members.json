@@ -1,0 +1,3194 @@
+[
+  {
+    "name": "Elizabeth Warren",
+    "level": 4,
+    "department": "Operations",
+    "numEmployees": 1000,
+    "company": "Rainbow Warrior Shipping",
+    "title": "COO",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -1
+      },
+      {
+        "topic": "company strategy",
+        "interest": 1
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth Buttigieg",
+    "level": 1,
+    "department": "Product",
+    "numEmployees": 500,
+    "company": "A-Trade.com",
+    "title": "PM",
+    "gender": "F",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": 0
+      },
+      {
+        "topic": "leadership",
+        "interest": 0
+      },
+      {
+        "topic": "databases",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth Yang",
+    "level": 1,
+    "department": "Product",
+    "numEmployees": 500,
+    "company": "Herringbone Fintech",
+    "title": "PM",
+    "gender": "F",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -2
+      },
+      {
+        "topic": "company strategy",
+        "interest": 1
+      },
+      {
+        "topic": "databases",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth Bloomberg",
+    "level": 3,
+    "department": "Operations",
+    "numEmployees": 200,
+    "company": "AutoMiler",
+    "title": "VP Operations",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth Delaney",
+    "level": 3,
+    "department": "Sales",
+    "numEmployees": 200,
+    "company": "Package.io",
+    "title": "VP Sales",
+    "gender": "F",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth Gabbard",
+    "level": 3,
+    "department": "Operations",
+    "numEmployees": 5000,
+    "company": "AirBnBirthday",
+    "title": "VP Operations",
+    "gender": "F",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "1:1s",
+        "interest": 0
+      },
+      {
+        "topic": "advertising",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth Sanders",
+    "level": 2,
+    "department": "Engineering",
+    "numEmployees": 1000,
+    "company": "Rainbow Warrior Shipping",
+    "title": "Senior Lead Engineer",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -1
+      },
+      {
+        "topic": "databases",
+        "interest": -2
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      },
+      {
+        "topic": "1:1s",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth Biden",
+    "level": 2,
+    "department": "Marketing",
+    "numEmployees": 500,
+    "company": "A-Trade.com",
+    "title": "Growth",
+    "gender": "F",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "leadership",
+        "interest": -1
+      },
+      {
+        "topic": "company culture",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth Klobuchar",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "Zen Polling",
+    "title": "Lead Engineer",
+    "gender": "F",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "advertising",
+        "interest": -1
+      },
+      {
+        "topic": "recruiting",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth Patrick",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 200,
+    "company": "Anschutz Investments",
+    "title": "Lead Engineer",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "databases",
+        "interest": 2
+      },
+      {
+        "topic": "advertising",
+        "interest": 0
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 0
+      },
+      {
+        "topic": "recruiting",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth Steyer",
+    "level": 2,
+    "department": "Marketing",
+    "numEmployees": 10,
+    "company": "Atom.ly",
+    "title": "Growth",
+    "gender": "F",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": 2
+      },
+      {
+        "topic": "databases",
+        "interest": 2
+      },
+      {
+        "topic": "company strategy",
+        "interest": 0
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth Bennet",
+    "level": 4,
+    "department": "Sales",
+    "numEmployees": 50,
+    "company": "Code For America",
+    "title": "CSO",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "difficult conversations",
+        "interest": -2
+      },
+      {
+        "topic": "1:1s",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Pete Warren",
+    "level": 3,
+    "department": "Marketing",
+    "numEmployees": 500,
+    "company": "Tender",
+    "title": "VP Marketing",
+    "gender": "M",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "leadership",
+        "interest": -1
+      },
+      {
+        "topic": "databases",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Pete Buttigieg",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 1000,
+    "company": "FlexSort",
+    "title": "Director Eng",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "leadership",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Pete Yang",
+    "level": 2,
+    "department": "Engineering",
+    "numEmployees": 500,
+    "company": "Tender",
+    "title": "Senior Manager",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "advertising",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Pete Bloomberg",
+    "level": 2,
+    "department": "Marketing",
+    "numEmployees": 500,
+    "company": "A-Trade.com",
+    "title": "Growth",
+    "gender": "M",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": -1
+      },
+      {
+        "topic": "recruiting",
+        "interest": 1
+      },
+      {
+        "topic": "leadership",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Pete Delaney",
+    "level": 4,
+    "department": "Marketing",
+    "numEmployees": 10,
+    "company": "Atom.ly",
+    "title": "CMO",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "leadership",
+        "interest": 1
+      },
+      {
+        "topic": "databases",
+        "interest": -2
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 0
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Pete Gabbard",
+    "level": 4,
+    "department": "Engineering",
+    "numEmployees": 1000,
+    "company": "Twill",
+    "title": "CTO",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "databases",
+        "interest": 0
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 0
+      },
+      {
+        "topic": "recruiting",
+        "interest": -2
+      },
+      {
+        "topic": "1:1s",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Pete Sanders",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 200,
+    "company": "AutoMiler",
+    "title": "VP Eng",
+    "gender": "M",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "leadership",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Pete Biden",
+    "level": 1,
+    "department": "Operations",
+    "numEmployees": 50,
+    "company": "MonkMatch",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -1
+      },
+      {
+        "topic": "databases",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Pete Klobuchar",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "AirBnBirthday",
+    "title": "Senior Engineer",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "1:1s",
+        "interest": 2
+      },
+      {
+        "topic": "company strategy",
+        "interest": -1
+      },
+      {
+        "topic": "advertising",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Pete Patrick",
+    "level": 1,
+    "department": "Operations",
+    "numEmployees": 200,
+    "company": "Anschutz Investments",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "leadership",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Pete Steyer",
+    "level": 1,
+    "department": "Product",
+    "numEmployees": 10,
+    "company": "enrich",
+    "title": "PM",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": 1
+      },
+      {
+        "topic": "recruiting",
+        "interest": -1
+      },
+      {
+        "topic": "databases",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Pete Bennet",
+    "level": 4,
+    "department": "Engineering",
+    "numEmployees": 1000,
+    "company": "Twill",
+    "title": "CTO",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "advertising",
+        "interest": -1
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 2
+      },
+      {
+        "topic": "leadership",
+        "interest": 1
+      },
+      {
+        "topic": "1:1s",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Andrew Warren",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "Zen Polling",
+    "title": "VP Eng",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "advertising",
+        "interest": -1
+      },
+      {
+        "topic": "1:1s",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Andrew Buttigieg",
+    "level": 4,
+    "department": "Sales",
+    "numEmployees": 50,
+    "company": "Code For America",
+    "title": "CSO",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 1
+      },
+      {
+        "topic": "recruiting",
+        "interest": 1
+      },
+      {
+        "topic": "company strategy",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Andrew Yang",
+    "level": 3,
+    "department": "Product",
+    "numEmployees": 200,
+    "company": "Package.io",
+    "title": "Head of Product",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": 1
+      },
+      {
+        "topic": "leadership",
+        "interest": 1
+      },
+      {
+        "topic": "advertising",
+        "interest": 1
+      },
+      {
+        "topic": "databases",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Andrew Bloomberg",
+    "level": 3,
+    "department": "Marketing",
+    "numEmployees": 10,
+    "company": "180andup.com",
+    "title": "VP Marketing",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "leadership",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Andrew Delaney",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 10,
+    "company": "180andup.com",
+    "title": "Director Eng",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": 1
+      },
+      {
+        "topic": "recruiting",
+        "interest": 0
+      },
+      {
+        "topic": "1:1s",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Andrew Gabbard",
+    "level": 3,
+    "department": "Sales",
+    "numEmployees": 50,
+    "company": "Code For America",
+    "title": "VP Sales",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -1
+      },
+      {
+        "topic": "company strategy",
+        "interest": -2
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 0
+      },
+      {
+        "topic": "advertising",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Andrew Sanders",
+    "level": 4,
+    "department": "Operations",
+    "numEmployees": 10,
+    "company": "Atom.ly",
+    "title": "COO",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "1:1s",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Andrew Biden",
+    "level": 4,
+    "department": "Operations",
+    "numEmployees": 10,
+    "company": "enrich",
+    "title": "COO",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": 0
+      },
+      {
+        "topic": "advertising",
+        "interest": -1
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": -1
+      },
+      {
+        "topic": "recruiting",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Andrew Klobuchar",
+    "level": 4,
+    "department": "Sales",
+    "numEmployees": 500,
+    "company": "A-Trade.com",
+    "title": "CSO",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "advertising",
+        "interest": -1
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 0
+      },
+      {
+        "topic": "leadership",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Andrew Patrick",
+    "level": 2,
+    "department": "Marketing",
+    "numEmployees": 200,
+    "company": "AutoMiler",
+    "title": "Growth",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Andrew Steyer",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 50,
+    "company": "MonkMatch",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Andrew Bennet",
+    "level": 4,
+    "department": "Marketing",
+    "numEmployees": 1000,
+    "company": "FlexSort",
+    "title": "CMO",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": 1
+      },
+      {
+        "topic": "advertising",
+        "interest": -1
+      },
+      {
+        "topic": "recruiting",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Mike Warren",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 200,
+    "company": "AutoMiler",
+    "title": "Senior Engineer",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": 0
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Mike Buttigieg",
+    "level": 3,
+    "department": "Product",
+    "numEmployees": 10,
+    "company": "enrich",
+    "title": "Head of Product",
+    "gender": "M",
+    "personality": "Very Introverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": 2
+      },
+      {
+        "topic": "advertising",
+        "interest": -1
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Mike Yang",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "Zen Polling",
+    "title": "Lead Engineer",
+    "gender": "M",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "1:1s",
+        "interest": -2
+      },
+      {
+        "topic": "company strategy",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Mike Bloomberg",
+    "level": 4,
+    "department": "Sales",
+    "numEmployees": 1000,
+    "company": "Rainbow Warrior Shipping",
+    "title": "CSO",
+    "gender": "M",
+    "personality": "Very Introverted",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": 2
+      },
+      {
+        "topic": "recruiting",
+        "interest": 1
+      },
+      {
+        "topic": "leadership",
+        "interest": 0
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Mike Delaney",
+    "level": 3,
+    "department": "Operations",
+    "numEmployees": 10,
+    "company": "enrich",
+    "title": "VP Operations",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Mike Gabbard",
+    "level": 4,
+    "department": "Operations",
+    "numEmployees": 1000,
+    "company": "Twill",
+    "title": "COO",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "advertising",
+        "interest": -1
+      },
+      {
+        "topic": "1:1s",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Mike Sanders",
+    "level": 3,
+    "department": "Marketing",
+    "numEmployees": 50,
+    "company": "MonkMatch",
+    "title": "Head of Marketing",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "1:1s",
+        "interest": -2
+      },
+      {
+        "topic": "company culture",
+        "interest": -1
+      },
+      {
+        "topic": "advertising",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Mike Biden",
+    "level": 4,
+    "department": "Marketing",
+    "numEmployees": 500,
+    "company": "A-Trade.com",
+    "title": "CMO",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": -1
+      },
+      {
+        "topic": "advertising",
+        "interest": 1
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Mike Klobuchar",
+    "level": 2,
+    "department": "Engineering",
+    "numEmployees": 500,
+    "company": "Tender",
+    "title": "Senior Lead Engineer",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": 1
+      },
+      {
+        "topic": "recruiting",
+        "interest": 1
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 0
+      },
+      {
+        "topic": "advertising",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Mike Patrick",
+    "level": 1,
+    "department": "Operations",
+    "numEmployees": 5000,
+    "company": "AirBnBirthday",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": 0
+      },
+      {
+        "topic": "advertising",
+        "interest": 1
+      },
+      {
+        "topic": "recruiting",
+        "interest": -1
+      },
+      {
+        "topic": "company strategy",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Mike Steyer",
+    "level": 4,
+    "department": "Operations",
+    "numEmployees": 500,
+    "company": "A-Trade.com",
+    "title": "COO",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": 2
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 1
+      },
+      {
+        "topic": "leadership",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Mike Bennet",
+    "level": 1,
+    "department": "Operations",
+    "numEmployees": 10,
+    "company": "180andup.com",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": -2
+      },
+      {
+        "topic": "databases",
+        "interest": -2
+      },
+      {
+        "topic": "company strategy",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "John Warren",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 50,
+    "company": "Code For America",
+    "title": "Senior Engineer",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": -2
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": -2
+      },
+      {
+        "topic": "advertising",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "John Buttigieg",
+    "level": 3,
+    "department": "Sales",
+    "numEmployees": 10,
+    "company": "Atom.ly",
+    "title": "VP Sales",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": -2
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": -1
+      },
+      {
+        "topic": "recruiting",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "John Yang",
+    "level": 2,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "Billionaire Tech",
+    "title": "Senior Lead Engineer",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": 2
+      },
+      {
+        "topic": "advertising",
+        "interest": -2
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "John Bloomberg",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 200,
+    "company": "AutoMiler",
+    "title": "Director Eng",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": 0
+      },
+      {
+        "topic": "1:1s",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "John Delaney",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 1000,
+    "company": "FlexSort",
+    "title": "VP Eng",
+    "gender": "M",
+    "personality": "Very Introverted",
+    "interests": [
+      {
+        "topic": "advertising",
+        "interest": 2
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "John Gabbard",
+    "level": 3,
+    "department": "Operations",
+    "numEmployees": 50,
+    "company": "Code For America",
+    "title": "VP Operations",
+    "gender": "M",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -2
+      },
+      {
+        "topic": "1:1s",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "John Sanders",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 50,
+    "company": "MonkMatch",
+    "title": "VP Eng",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "leadership",
+        "interest": -1
+      },
+      {
+        "topic": "recruiting",
+        "interest": 1
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "John Biden",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 1000,
+    "company": "Twill",
+    "title": "Director Eng",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -2
+      },
+      {
+        "topic": "advertising",
+        "interest": 0
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "John Klobuchar",
+    "level": 1,
+    "department": "Product",
+    "numEmployees": 1000,
+    "company": "FlexSort",
+    "title": "PM",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "advertising",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "John Patrick",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 50,
+    "company": "Code For America",
+    "title": "Lead Engineer",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "difficult conversations",
+        "interest": 2
+      },
+      {
+        "topic": "recruiting",
+        "interest": 1
+      },
+      {
+        "topic": "databases",
+        "interest": -1
+      },
+      {
+        "topic": "company culture",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "John Steyer",
+    "level": 4,
+    "department": "Operations",
+    "numEmployees": 10,
+    "company": "Atom.ly",
+    "title": "COO",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": 2
+      },
+      {
+        "topic": "databases",
+        "interest": -1
+      },
+      {
+        "topic": "leadership",
+        "interest": 1
+      },
+      {
+        "topic": "company culture",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "John Bennet",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "Billionaire Tech",
+    "title": "Director Eng",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Tulsi Warren",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 10,
+    "company": "180andup.com",
+    "title": "Director Eng",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": 1
+      },
+      {
+        "topic": "company strategy",
+        "interest": -2
+      },
+      {
+        "topic": "company culture",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Tulsi Buttigieg",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 1000,
+    "company": "Twill",
+    "title": "Lead Engineer",
+    "gender": "F",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": 0
+      },
+      {
+        "topic": "leadership",
+        "interest": 2
+      },
+      {
+        "topic": "1:1s",
+        "interest": 0
+      },
+      {
+        "topic": "recruiting",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Tulsi Yang",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 10,
+    "company": "enrich",
+    "title": "Director Eng",
+    "gender": "F",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "1:1s",
+        "interest": 0
+      },
+      {
+        "topic": "advertising",
+        "interest": 1
+      },
+      {
+        "topic": "recruiting",
+        "interest": 0
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Tulsi Bloomberg",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 50,
+    "company": "MonkMatch",
+    "title": "Director Eng",
+    "gender": "F",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": 0
+      },
+      {
+        "topic": "recruiting",
+        "interest": 2
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 0
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Tulsi Delaney",
+    "level": 3,
+    "department": "Sales",
+    "numEmployees": 50,
+    "company": "Code For America",
+    "title": "VP Sales",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Tulsi Gabbard",
+    "level": 3,
+    "department": "Product",
+    "numEmployees": 50,
+    "company": "MonkMatch",
+    "title": "CPO",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Tulsi Sanders",
+    "level": 2,
+    "department": "Engineering",
+    "numEmployees": 500,
+    "company": "A-Trade.com",
+    "title": "Senior Lead Engineer",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": 1
+      },
+      {
+        "topic": "leadership",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Tulsi Biden",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 1000,
+    "company": "Rainbow Warrior Shipping",
+    "title": "VP Eng",
+    "gender": "F",
+    "personality": "Very Introverted",
+    "interests": [
+      {
+        "topic": "databases",
+        "interest": -1
+      },
+      {
+        "topic": "1:1s",
+        "interest": -2
+      },
+      {
+        "topic": "recruiting",
+        "interest": 1
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Tulsi Klobuchar",
+    "level": 4,
+    "department": "Marketing",
+    "numEmployees": 10,
+    "company": "enrich",
+    "title": "CMO",
+    "gender": "F",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "advertising",
+        "interest": 1
+      },
+      {
+        "topic": "leadership",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Tulsi Patrick",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 50,
+    "company": "MonkMatch",
+    "title": "Director Eng",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": 1
+      },
+      {
+        "topic": "1:1s",
+        "interest": 0
+      },
+      {
+        "topic": "databases",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Tulsi Steyer",
+    "level": 4,
+    "department": "Marketing",
+    "numEmployees": 200,
+    "company": "Anschutz Investments",
+    "title": "CMO",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "databases",
+        "interest": -2
+      },
+      {
+        "topic": "company culture",
+        "interest": -1
+      },
+      {
+        "topic": "advertising",
+        "interest": 2
+      },
+      {
+        "topic": "recruiting",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Tulsi Bennet",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 10,
+    "company": "Atom.ly",
+    "title": "Senior Engineer",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": 2
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Bernie Warren",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 10,
+    "company": "180andup.com",
+    "title": "Senior Engineer",
+    "gender": "M",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -1
+      },
+      {
+        "topic": "advertising",
+        "interest": -1
+      },
+      {
+        "topic": "1:1s",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Bernie Buttigieg",
+    "level": 3,
+    "department": "Product",
+    "numEmployees": 200,
+    "company": "AutoMiler",
+    "title": "CPO",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -2
+      },
+      {
+        "topic": "leadership",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Bernie Yang",
+    "level": 4,
+    "department": "Engineering",
+    "numEmployees": 500,
+    "company": "Herringbone Fintech",
+    "title": "CTO",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "difficult conversations",
+        "interest": -1
+      },
+      {
+        "topic": "recruiting",
+        "interest": -2
+      },
+      {
+        "topic": "leadership",
+        "interest": 1
+      },
+      {
+        "topic": "advertising",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Bernie Bloomberg",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 50,
+    "company": "Code For America",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": 0
+      },
+      {
+        "topic": "1:1s",
+        "interest": -2
+      },
+      {
+        "topic": "advertising",
+        "interest": 1
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Bernie Delaney",
+    "level": 1,
+    "department": "Operations",
+    "numEmployees": 200,
+    "company": "Package.io",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": 2
+      },
+      {
+        "topic": "advertising",
+        "interest": 2
+      },
+      {
+        "topic": "1:1s",
+        "interest": -2
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Bernie Gabbard",
+    "level": 4,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "Billionaire Tech",
+    "title": "CTO",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": 1
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      },
+      {
+        "topic": "leadership",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Bernie Sanders",
+    "level": 3,
+    "department": "Operations",
+    "numEmployees": 5000,
+    "company": "Billionaire Tech",
+    "title": "VP Operations",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "1:1s",
+        "interest": 0
+      },
+      {
+        "topic": "databases",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Bernie Biden",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 10,
+    "company": "180andup.com",
+    "title": "Lead Engineer",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": -2
+      },
+      {
+        "topic": "advertising",
+        "interest": 0
+      },
+      {
+        "topic": "leadership",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Bernie Klobuchar",
+    "level": 4,
+    "department": "Engineering",
+    "numEmployees": 1000,
+    "company": "FlexSort",
+    "title": "CTO",
+    "gender": "M",
+    "personality": "Very Introverted",
+    "interests": [
+      {
+        "topic": "leadership",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Bernie Patrick",
+    "level": 2,
+    "department": "Engineering",
+    "numEmployees": 200,
+    "company": "Anschutz Investments",
+    "title": "Senior Lead Engineer",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Bernie Steyer",
+    "level": 4,
+    "department": "Engineering",
+    "numEmployees": 10,
+    "company": "Atom.ly",
+    "title": "CTO",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "1:1s",
+        "interest": 2
+      },
+      {
+        "topic": "leadership",
+        "interest": 2
+      },
+      {
+        "topic": "advertising",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Bernie Bennet",
+    "level": 2,
+    "department": "Engineering",
+    "numEmployees": 1000,
+    "company": "FlexSort",
+    "title": "Senior Manager",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": 1
+      },
+      {
+        "topic": "1:1s",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Joe Warren",
+    "level": 4,
+    "department": "Operations",
+    "numEmployees": 50,
+    "company": "MonkMatch",
+    "title": "COO",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Joe Buttigieg",
+    "level": 3,
+    "department": "Marketing",
+    "numEmployees": 1000,
+    "company": "FlexSort",
+    "title": "Head of Marketing",
+    "gender": "M",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "1:1s",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Joe Yang",
+    "level": 1,
+    "department": "Operations",
+    "numEmployees": 5000,
+    "company": "Billionaire Tech",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": 0
+      },
+      {
+        "topic": "advertising",
+        "interest": 1
+      },
+      {
+        "topic": "company culture",
+        "interest": -2
+      },
+      {
+        "topic": "leadership",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Joe Bloomberg",
+    "level": 1,
+    "department": "Product",
+    "numEmployees": 500,
+    "company": "Herringbone Fintech",
+    "title": "PM",
+    "gender": "M",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "1:1s",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Joe Delaney",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "Billionaire Tech",
+    "title": "Senior Engineer",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": 1
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 0
+      },
+      {
+        "topic": "company culture",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Joe Gabbard",
+    "level": 2,
+    "department": "Sales",
+    "numEmployees": 10,
+    "company": "enrich",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "databases",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Joe Sanders",
+    "level": 3,
+    "department": "Product",
+    "numEmployees": 10,
+    "company": "enrich",
+    "title": "CPO",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "leadership",
+        "interest": 2
+      },
+      {
+        "topic": "recruiting",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Joe Biden",
+    "level": 1,
+    "department": "Operations",
+    "numEmployees": 5000,
+    "company": "Zen Polling",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Joe Klobuchar",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "Zen Polling",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": 2
+      },
+      {
+        "topic": "leadership",
+        "interest": -2
+      },
+      {
+        "topic": "1:1s",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Joe Patrick",
+    "level": 3,
+    "department": "Product",
+    "numEmployees": 50,
+    "company": "Code For America",
+    "title": "Head of Product",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": 0
+      },
+      {
+        "topic": "company strategy",
+        "interest": -2
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 0
+      },
+      {
+        "topic": "recruiting",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Joe Steyer",
+    "level": 3,
+    "department": "Product",
+    "numEmployees": 200,
+    "company": "Anschutz Investments",
+    "title": "Head of Product",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": -2
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Joe Bennet",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "AirBnBirthday",
+    "title": "VP Eng",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": -1
+      },
+      {
+        "topic": "databases",
+        "interest": 1
+      },
+      {
+        "topic": "recruiting",
+        "interest": 1
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Amy Warren",
+    "level": 2,
+    "department": "Sales",
+    "numEmployees": 10,
+    "company": "Atom.ly",
+    "title": "Manager",
+    "gender": "F",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": 2
+      },
+      {
+        "topic": "company strategy",
+        "interest": 0
+      },
+      {
+        "topic": "leadership",
+        "interest": -2
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Amy Buttigieg",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 1000,
+    "company": "Rainbow Warrior Shipping",
+    "title": "Director Eng",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": 1
+      },
+      {
+        "topic": "recruiting",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Amy Yang",
+    "level": 4,
+    "department": "Operations",
+    "numEmployees": 500,
+    "company": "Tender",
+    "title": "COO",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "difficult conversations",
+        "interest": 1
+      },
+      {
+        "topic": "databases",
+        "interest": -1
+      },
+      {
+        "topic": "company culture",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Amy Bloomberg",
+    "level": 3,
+    "department": "Marketing",
+    "numEmployees": 1000,
+    "company": "FlexSort",
+    "title": "VP Marketing",
+    "gender": "F",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "difficult conversations",
+        "interest": 2
+      },
+      {
+        "topic": "databases",
+        "interest": 2
+      },
+      {
+        "topic": "company strategy",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Amy Delaney",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 10,
+    "company": "enrich",
+    "title": "Manager",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "advertising",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Amy Gabbard",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 200,
+    "company": "Package.io",
+    "title": "Lead Engineer",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -1
+      },
+      {
+        "topic": "leadership",
+        "interest": 2
+      },
+      {
+        "topic": "advertising",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Amy Sanders",
+    "level": 2,
+    "department": "Sales",
+    "numEmployees": 200,
+    "company": "Anschutz Investments",
+    "title": "Manager",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": -1
+      },
+      {
+        "topic": "company strategy",
+        "interest": -2
+      },
+      {
+        "topic": "company culture",
+        "interest": -2
+      },
+      {
+        "topic": "recruiting",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Amy Biden",
+    "level": 4,
+    "department": "Operations",
+    "numEmployees": 1000,
+    "company": "Twill",
+    "title": "COO",
+    "gender": "F",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      },
+      {
+        "topic": "company strategy",
+        "interest": 2
+      },
+      {
+        "topic": "databases",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Amy Klobuchar",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "Billionaire Tech",
+    "title": "Senior Engineer",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": 0
+      },
+      {
+        "topic": "recruiting",
+        "interest": 0
+      },
+      {
+        "topic": "advertising",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Amy Patrick",
+    "level": 3,
+    "department": "Product",
+    "numEmployees": 500,
+    "company": "A-Trade.com",
+    "title": "Head of Product",
+    "gender": "F",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Amy Steyer",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 500,
+    "company": "Tender",
+    "title": "Director Eng",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -2
+      },
+      {
+        "topic": "leadership",
+        "interest": 2
+      },
+      {
+        "topic": "databases",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Amy Bennet",
+    "level": 3,
+    "department": "Product",
+    "numEmployees": 10,
+    "company": "enrich",
+    "title": "Head of Product",
+    "gender": "F",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "advertising",
+        "interest": 1
+      },
+      {
+        "topic": "recruiting",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Deval Warren",
+    "level": 3,
+    "department": "Operations",
+    "numEmployees": 1000,
+    "company": "Rainbow Warrior Shipping",
+    "title": "VP Operations",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "leadership",
+        "interest": -2
+      },
+      {
+        "topic": "databases",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Deval Buttigieg",
+    "level": 3,
+    "department": "Operations",
+    "numEmployees": 10,
+    "company": "enrich",
+    "title": "VP Operations",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": 2
+      },
+      {
+        "topic": "databases",
+        "interest": 1
+      },
+      {
+        "topic": "advertising",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Deval Yang",
+    "level": 3,
+    "department": "Product",
+    "numEmployees": 1000,
+    "company": "FlexSort",
+    "title": "Head of Product",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "advertising",
+        "interest": 1
+      },
+      {
+        "topic": "databases",
+        "interest": 1
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Deval Bloomberg",
+    "level": 3,
+    "department": "Product",
+    "numEmployees": 5000,
+    "company": "Billionaire Tech",
+    "title": "Head of Product",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": 1
+      },
+      {
+        "topic": "databases",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Deval Delaney",
+    "level": 2,
+    "department": "Marketing",
+    "numEmployees": 1000,
+    "company": "FlexSort",
+    "title": "Growth",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "advertising",
+        "interest": 2
+      },
+      {
+        "topic": "1:1s",
+        "interest": -1
+      },
+      {
+        "topic": "recruiting",
+        "interest": -2
+      },
+      {
+        "topic": "leadership",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Deval Gabbard",
+    "level": 4,
+    "department": "Engineering",
+    "numEmployees": 50,
+    "company": "MonkMatch",
+    "title": "CTO",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Deval Sanders",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 200,
+    "company": "Package.io",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": 2
+      },
+      {
+        "topic": "recruiting",
+        "interest": -2
+      },
+      {
+        "topic": "advertising",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Deval Biden",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 500,
+    "company": "A-Trade.com",
+    "title": "Senior Engineer",
+    "gender": "M",
+    "personality": "Very Introverted",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Deval Klobuchar",
+    "level": 2,
+    "department": "Marketing",
+    "numEmployees": 200,
+    "company": "AutoMiler",
+    "title": "Growth",
+    "gender": "M",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Deval Patrick",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 500,
+    "company": "A-Trade.com",
+    "title": "Lead Engineer",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Deval Steyer",
+    "level": 2,
+    "department": "Sales",
+    "numEmployees": 500,
+    "company": "Tender",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "1:1s",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Deval Bennet",
+    "level": 3,
+    "department": "Operations",
+    "numEmployees": 200,
+    "company": "Anschutz Investments",
+    "title": "VP Operations",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -1
+      },
+      {
+        "topic": "1:1s",
+        "interest": 1
+      },
+      {
+        "topic": "leadership",
+        "interest": 1
+      },
+      {
+        "topic": "databases",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Tom Warren",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 200,
+    "company": "Anschutz Investments",
+    "title": "Lead Engineer",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": -1
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Tom Buttigieg",
+    "level": 3,
+    "department": "Operations",
+    "numEmployees": 50,
+    "company": "MonkMatch",
+    "title": "VP Operations",
+    "gender": "M",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "leadership",
+        "interest": -2
+      },
+      {
+        "topic": "advertising",
+        "interest": 0
+      },
+      {
+        "topic": "recruiting",
+        "interest": 0
+      },
+      {
+        "topic": "company strategy",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Tom Yang",
+    "level": 2,
+    "department": "Engineering",
+    "numEmployees": 10,
+    "company": "Atom.ly",
+    "title": "Senior Lead Engineer",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Tom Bloomberg",
+    "level": 2,
+    "department": "Sales",
+    "numEmployees": 10,
+    "company": "enrich",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": -2
+      },
+      {
+        "topic": "1:1s",
+        "interest": 2
+      },
+      {
+        "topic": "leadership",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Tom Delaney",
+    "level": 2,
+    "department": "Engineering",
+    "numEmployees": 10,
+    "company": "Atom.ly",
+    "title": "Senior Lead Engineer",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": 2
+      },
+      {
+        "topic": "company culture",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Tom Gabbard",
+    "level": 4,
+    "department": "Operations",
+    "numEmployees": 1000,
+    "company": "Rainbow Warrior Shipping",
+    "title": "COO",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "1:1s",
+        "interest": -2
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 1
+      },
+      {
+        "topic": "recruiting",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Tom Sanders",
+    "level": 4,
+    "department": "Sales",
+    "numEmployees": 10,
+    "company": "enrich",
+    "title": "CSO",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": 1
+      },
+      {
+        "topic": "advertising",
+        "interest": -1
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Tom Biden",
+    "level": 3,
+    "department": "Marketing",
+    "numEmployees": 1000,
+    "company": "FlexSort",
+    "title": "VP Marketing",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company culture",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Tom Klobuchar",
+    "level": 4,
+    "department": "Engineering",
+    "numEmployees": 200,
+    "company": "AutoMiler",
+    "title": "CTO",
+    "gender": "M",
+    "personality": "Very Introverted",
+    "interests": [
+      {
+        "topic": "1:1s",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Tom Patrick",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 500,
+    "company": "A-Trade.com",
+    "title": "Lead Engineer",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "difficult conversations",
+        "interest": 1
+      },
+      {
+        "topic": "advertising",
+        "interest": 1
+      },
+      {
+        "topic": "recruiting",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Tom Steyer",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "AirBnBirthday",
+    "title": "Director Eng",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": 0
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 1
+      }
+    ]
+  },
+  {
+    "name": "Tom Bennet",
+    "level": 2,
+    "department": "Marketing",
+    "numEmployees": 50,
+    "company": "Code For America",
+    "title": "Growth",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -2
+      },
+      {
+        "topic": "databases",
+        "interest": -1
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      },
+      {
+        "topic": "leadership",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Michael Warren",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "AirBnBirthday",
+    "title": "Director Eng",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -2
+      },
+      {
+        "topic": "1:1s",
+        "interest": 0
+      },
+      {
+        "topic": "advertising",
+        "interest": 2
+      }
+    ]
+  },
+  {
+    "name": "Michael Buttigieg",
+    "level": 2,
+    "department": "Engineering",
+    "numEmployees": 10,
+    "company": "Atom.ly",
+    "title": "Senior Manager",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Michael Yang",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 200,
+    "company": "Anschutz Investments",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -1
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      }
+    ]
+  },
+  {
+    "name": "Michael Bloomberg",
+    "level": 1,
+    "department": "Product",
+    "numEmployees": 1000,
+    "company": "Twill",
+    "title": "PM",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Michael Delaney",
+    "level": 4,
+    "department": "Marketing",
+    "numEmployees": 1000,
+    "company": "Rainbow Warrior Shipping",
+    "title": "CMO",
+    "gender": "M",
+    "personality": "Very Extroverted",
+    "interests": [
+      {
+        "topic": "recruiting",
+        "interest": -2
+      },
+      {
+        "topic": "leadership",
+        "interest": 2
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Michael Gabbard",
+    "level": 2,
+    "department": "Engineering",
+    "numEmployees": 200,
+    "company": "Anschutz Investments",
+    "title": "Senior Manager",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "company strategy",
+        "interest": -1
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": 0
+      },
+      {
+        "topic": "recruiting",
+        "interest": 2
+      },
+      {
+        "topic": "company culture",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Michael Sanders",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 200,
+    "company": "Anschutz Investments",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "difficult conversations",
+        "interest": 2
+      },
+      {
+        "topic": "1:1s",
+        "interest": -1
+      },
+      {
+        "topic": "recruiting",
+        "interest": -2
+      },
+      {
+        "topic": "advertising",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Michael Biden",
+    "level": 2,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "Zen Polling",
+    "title": "Senior Manager",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "difficult conversations",
+        "interest": 2
+      },
+      {
+        "topic": "diversity & inclusion",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Michael Klobuchar",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 1000,
+    "company": "FlexSort",
+    "title": "Senior Engineer",
+    "gender": "M",
+    "personality": "Average",
+    "interests": [
+      {
+        "topic": "difficult conversations",
+        "interest": -2
+      },
+      {
+        "topic": "recruiting",
+        "interest": 2
+      },
+      {
+        "topic": "1:1s",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Michael Patrick",
+    "level": 3,
+    "department": "Engineering",
+    "numEmployees": 5000,
+    "company": "Zen Polling",
+    "title": "VP Eng",
+    "gender": "M",
+    "personality": "Very Introverted",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": -2
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 1
+      },
+      {
+        "topic": "leadership",
+        "interest": 0
+      }
+    ]
+  },
+  {
+    "name": "Michael Steyer",
+    "level": 1,
+    "department": "Engineering",
+    "numEmployees": 50,
+    "company": "Code For America",
+    "title": "Manager",
+    "gender": "M",
+    "personality": "Introverted",
+    "interests": [
+      {
+        "topic": "advertising",
+        "interest": -1
+      }
+    ]
+  },
+  {
+    "name": "Michael Bennet",
+    "level": 3,
+    "department": "Marketing",
+    "numEmployees": 5000,
+    "company": "AirBnBirthday",
+    "title": "VP Marketing",
+    "gender": "M",
+    "personality": "Extroverted",
+    "interests": [
+      {
+        "topic": "diversity & inclusion",
+        "interest": 2
+      },
+      {
+        "topic": "difficult conversations",
+        "interest": 0
+      }
+    ]
+  }
+]
