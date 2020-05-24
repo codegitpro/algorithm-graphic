@@ -1,7 +1,5 @@
 # Party Planning Pandemonium
-In this project, your mission is to plan dinner parties for 144 people. This process is divided into two missions. The first one should take ~1-2 hours and the second should not take more than 30 minutes.
-
-You will need to use node.js to complete this project. Intstructions for installation & execution are at the end of this file.
+Let's plan dinner parties for 144 people. I believe there should be a way to organize party best
 
 ## Mission 1: Grouping
 
@@ -90,9 +88,6 @@ For example:
  - Michael Bennet - Managing Director @ Anschutz Investment Company. Interested in recruiting and 1:1s.
 ```
 
-### Internal communication
-
-After you're satisfied with your matching algorithm, write a human-readable description of how it works to explain to our non-engineer team members. This should be relatively short, e.g. 1-2 paragraphs. Write this in the file `algorithm_explanation.md`. During our interview, we will start our conversation here.
 
 ## Mission 2: Coordinating
 
