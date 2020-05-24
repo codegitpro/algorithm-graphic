@@ -2,9 +2,13 @@
 # node package
 node_modules
 
+# credentials
+.env
+
 # npm repo images
 package-lock.json
 yarn.lock
+
 # compressor files
 *.zip
 *.rar
