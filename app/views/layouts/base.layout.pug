@@ -1,0 +1,35 @@
+//- skeleton layout
+//- @common basic page structure
+doctype html
+html(lang="en")
+    head
+        title Pandemonium
+
+        //- metas
+        block metas-section
+        //- add meta fields...
+        
+        include ./../mixins/base.mixin.pug
+
+        //- styles
+        block styles-section
+        //- add stylesheet files...
+        //- scripts
+        block header-scripts-section
+        //- add script files...
+    body
+        //- header section
+        block header-section
+        //- add header contents...
+        //- main content section
+        block main-section
+        //- add main contents...
+        //- modal section
+        block modals-section
+        //- add modal contents...
+        //- footer
+        block footer-section
+        //- add footer contents...
+        //- footer scripts
+        block footer-scripts-section
+        //- add footer script files...
