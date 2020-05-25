@@ -1,0 +1,32 @@
+block styles-section
+    -
+        //- icons
+        var icon_path = "/images/favicons/";
+        var icons = [];
+        
+        //- CDN styles
+        var CDN_style_paths = [];
+        
+        //- vendor styles
+        var vendor_style_path = "/stylesheets/vendor/";
+        var vendor_styles = [];
+        var vendor_style_paths = vendor_styles.map(e => vendor_style_path + e); 
+        
+        //- local styles
+        var local_style_path = "/stylesheets/";
+        var local_styles = ["index.less"];
+        var local_style_paths = local_styles.map(e => local_style_path + e);
+        var styles = [ ...CDN_style_paths, ...vendor_style_paths, ...local_style_paths ];
+        
+    //- content
+    //- 
+    //- 
+    each item in icons
+        -
+            item.href = icon_path + item.name;
+            item.version = asset_version;
+            
+        +LoadIcon(item)
+
+    each path in styles
+        +LoadStyle({ rel:"stylesheet", href: path, version: asset_version })

@@ -1,0 +1,14 @@
+extends ./../layouts/main.layout.pug
+
+block append main-section
+	section.page-header
+		include ./sections/home-header.section.pug
+
+	section.main-content
+		include ./sections/home-main.section.pug
+
+	footer
+		include ./sections/home-footer.section.pug
+
+block append footer-scripts-section
+	+LoadScript({ type: "text/javascript", version: asset_version, src: "/javascripts/main/main.script.js" })

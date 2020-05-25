@@ -1,0 +1,32 @@
+block append footer-scripts-section
+    -
+        //- CDN scripts
+        var CDN_script_paths = [
+            "https://cdnjs.cloudflare.com/ajax/libs/less.js/3.9.0/less.min.js",
+        ];
+        
+        //- vendor styles
+        var vendor_script_path = "/javascripts/vendor/";
+        var vendor_scripts = [ 
+        	//- "jquery-3.2.1.min.js",
+        	//- "jquery.nice-select.min.js",
+        	//- "bootstrap.min.js",
+        	//- "bootstrap-datepicker.min.js",
+        	//- "outdatedbrowser.min.js", 
+        	//- "socket.io.js",
+        	//- "retina.min.js",
+        	//- "simplebar.js",
+        	//- "morphext.min.js"
+        ];
+        var vendor_script_paths = vendor_scripts.map(e => vendor_script_path + e);
+        
+        //- local styles
+        var local_script_path = "/javascripts/";
+        var local_scripts = [];
+        var local_script_paths = local_scripts.map(e => local_script_path + e);
+        
+        var scripts = [ ...CDN_script_paths, ...vendor_script_paths, ...local_script_paths ]
+        
+        
+    each path in scripts
+        +LoadScript({ type:"text/javascript", src: path, version: asset_version })

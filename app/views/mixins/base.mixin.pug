@@ -1,0 +1,15 @@
+mixin LoadStyle(param)
+    -
+        const { rel, href, version, type, sizes } = param
+        const rel_type = href.includes('.less')?"stylesheet/less":"stylesheet"
+        
+    link(rel=rel_type, href=href + '?' + version, type=type, sizes=sizes)
+
+mixin LoadIcon(param)
+    - const { rel, href, version } = param
+    link(rel=rel, href=href + '?' + version)
+
+mixin LoadScript(param)
+    - const { type, src, version } = param
+    if typeof src === "string"
+        script(type=type, src=src + '?' + version)
